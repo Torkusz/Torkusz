@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi there, I'm 
-    <a href="https://t.me/skyguy" target="_blank" style="color: #8C43EA">Torkusz</a>
+    <a href="https://t.me/Torkusz" target="_blank" style="color: #8C43EA">Torkusz</a>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
 </h1>
 
