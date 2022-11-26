@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Torkusz)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torkusz&layout=compact)](https://github.com/Torkusz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torkusz&layout=compact)]https://github.com/anuraghazra/github-readme-stats
 
  Last Updated on 26/11/2022 23:40:45 UTC
 <!--END_SECTION:waka-->
