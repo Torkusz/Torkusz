@@ -22,15 +22,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Torkusz&theme=solarized_dark)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Torkusz&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Torkusz&theme=solarized_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Torkusz&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Torkusz&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Torkusz&theme=solarized_dark)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Torkusz&theme=solarized_dark)
 
 
