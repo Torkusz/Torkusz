@@ -23,7 +23,7 @@
 > 🔑 13 Private Repositories  
  > 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Torkusz)](https://git.io/streak-stats)
 
 
  Last Updated on 26/11/2022 23:40:45 UTC
